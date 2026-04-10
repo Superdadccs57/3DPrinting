@@ -1,0 +1,1 @@
+This Repository is designed to share my 3D Printing ideas and designs with the community. Most of the designs will be posted on Makerworld.com for printing but I will post source files here for further customization!
